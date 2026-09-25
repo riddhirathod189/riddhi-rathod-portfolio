@@ -28,7 +28,7 @@ export function Contact() {
 
         <div className="contact-socials">
           <a href="mailto:rathodriddhip18@gmail.com" aria-label="Email"><Mail size={18} /></a>
-          <a href="https://www.linkedin.com/in/riddhi-rathod-5684a229" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
+          <a href="https://www.linkedin.com/in/riddhi-rathod-5684a229a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
           <a href="https://github.com/riddhirathod189" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><Github size={18} /></a>
         </div>
 
